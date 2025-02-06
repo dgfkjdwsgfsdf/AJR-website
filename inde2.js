@@ -1,4 +1,4 @@
-var password = "Alexa";
+var password = "Kat";
 
 function passcheck() {
 
