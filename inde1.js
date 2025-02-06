@@ -1,4 +1,4 @@
-var password = "03122009";
+var password = "08/21/2007";
 
 function passcheck() {
 
